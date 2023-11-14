@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "taxonomy&Sequence_1",
+        "paths&Sequence_1",
+        "duApiKey&Sequence_1",
+        "docuName&Sequence_2",
+        "docText&Sequence_2",
+        "docObj&Sequence_2",
+        "classificationResult&Sequence_2",
+        "validatedClassificationResults&Sequence_2",
+        "extractionResult&Sequence_2",
+        "validatedResults&Sequence_2",
+        "validationStationError&Sequence_2",
+        "outputData&Sequence_2",
+        "ocrResult&Sequence_3",
+        "ocrText&Sequence_3",
+        "exceptionInfo&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
